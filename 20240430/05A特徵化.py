@@ -5,7 +5,7 @@ df = pd.read_csv("/workspaces/cycu_ai2024/20240430/05A.csv")
 
 #將第二欄中前兩個字為01的數據篩選出來，並將資料轉換成第四個字到第七個字
 df = df[df['Door'].str[:2] == '01']
-df['Door'] = df['Door'].str[3:7]
+df['Door'] = df['Door'].str[3:8]
 
 #篩選欄位Car為31的數據
 df = df[df['Car'] == 31]
