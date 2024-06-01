@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Index of /history/TDCS/M05A/20240416/00</title>
+  <link rel="stylesheet" href="/theme/style.css" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /> </head>
+ <body>
+<link rel="stylesheet" type="text/css" href="/theme/base.css"/ >
+
+<style type="text/css">
+#indexlist {
+    /*margin-top: 15px;*/
+    /*padding-top: 15px;*/
+}
+
+.description {
+    padding-bottom: 15px;
+}
+
+tr.indexhead {
+    background: #4d841b !important;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 17%);
+    border-width: 0 3px;
+    border-color: #4d841b !important;
+    border-style: solid;
+}
+
+tr td.indexcolicon {
+    text-align: right;
+    padding-right: 0 !important;
+}
+
+tr td.indexcolname {
+    padding-left: 10px !important;
+}
+
+tr.indexhead th {
+    padding: 15px 23px 13px 0;
+}
+
+tr.indexhead th a {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.list-box {
+    width: 100%;
+    height: 800px; //限定高度
+    overflow:  hidden;
+    overflow-y: auto; //自動產生 y 軸捲軸
+}
+</style>
+
+<header>
+    <div class="container bg-car">
+        <a class="logo" href="https://tisvcloud.freeway.gov.tw/">
+            <img src="/theme/logo.png">
+        </a>
+    </div>
+</header>
+<div>
+    <div class="container">
+        <section class="description">
+            <div class="col-left">
+                <div class="title style-1">
+                    <h3>訂定目的</h3>
+                </div>
+                <div class="info">
+                    為利促進及活化政府資料應用並提升政府資料品質及價值，交通部高速公路局(以下簡稱本局)彙整國道即時及歷史交通資訊，開放「交通資料庫」(以下簡稱本資料庫)供產、官、學、研各界免費下載加值應用，以利用路人獲取更多元之服務，特訂定本注意事項。
+                </div>
+            </div>
+            <div class="col-right">
+                <div class="title style-2">
+                    <h3>使用下載資料應注意事項</h3>
+                </div>
+                <ul class="list-style">
+                    <li>
+                        <div class="num">
+                            <span>1</span>
+                        </div>
+                        <div class="info">
+                            本資料庫資料來源為｢高快速公路整體路網交通管理系統｣與｢高速公路電子收費系統｣，資料免費提供下載使用。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>2</span>
+                        </div>
+                        <div class="info">
+                            本系統資料格式係依據交通部發布之<a title="即時路況資料標準2.0『另開新視窗』" target="_blank"
+                                href="https://tdx.transportdata.tw/data-standard/description">「即時路況資料標準2.0」</a>及本局
+                            <a title="TDCS使用手冊『另開新視窗』" target="_blank"
+                                href="https://tisvcloud.freeway.gov.tw/documents/TDCS%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8Av34.pdf">｢高速公路電子收費交通資料蒐集支援系統(TDCS,
+                                Traffic Data Collection System)使用手冊｣</a>。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>3</span>
+                        </div>
+                        <div class="info">
+                            下載資料內容為系統自動產出，系統無法預估斷線或設備故障等情況，故資料僅供參考，下載者皆不得以本局
+                            資料庫所提供之資訊主張任何權利。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>4</span>
+                        </div>
+                        <div class="info">
+                            使用由本資料庫下載之資料所加值之服務或研究成果，於對外提供時均應聲明介接本局「交通資料庫」，若未能執行本局有權限制連線。(顯名聲明：交通部高速公路局「交通資料庫」)
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>5</span>
+                        </div>
+                        <div class="info">
+                            使用者重複擷取資料週期間距應大於40秒，以免影響他人下載權利。若發現有違反情事，本局得逕行中斷其
+                            連線，使用者不得異議。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>6</span>
+                        </div>
+                        <div class="info">
+                            本資料庫資料不得進行任何違反中華民國法律之使用及應用，並須遵循國發會政府資料開放相關規範。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>7</span>
+                        </div>
+                        <div class="info">
+                            使用者開始進行資料下載即視同同意本注意事項之相關規定。
+                        </div>
+                    </li>
+                    <li>
+                        <div class="num">
+                            <span>8</span>
+                        </div>
+                        <div class="info" style="color:red">
+                            為配合交通部政策，本平台路況資訊1.1版已於111年10月31日終止服務，請使用者儘速改接2.0版
+                        </div>
+                    </li>
+                    <!-- <li>
+                                        <div class="num">
+                                            <span>9</span>
+                                        </div>
+                                        <div class="info" style="color:red">
+                                            為提升本局國道ETC資料蒐集系統(TDCS)資料處理穩定性，預計於112年2月14日10時至14時辦理該資料集儲存媒體(NAS)設備更新，屆時TDCS相關資料將暫停更新，預計於2月15日12時前完成補傳相關資料。如有不便，敬請諒解。。
+                                        </div>
+                                    </li> -->
+                </ul>
+            </div>
+        </section>
+
+        <section class="data">
+            <div class="title style-3">
+                <h3>歷史資料庫檔案下載</h3>
+                <a href="javascript:history.back()" class="btn-yellow style2">上一頁</a>
+                <a href="/history-list.php" class="btn-yellow style1" style="margin-left: 26px;">歷史資料庫</a>
+            </div>
+        </section>
+
+        <div class="list-box">
+            <section class="data">  <table id="indexlist">
+   <tr class="indexhead"><th class="indexcolicon"><img src="/theme/icons/blank.png" alt="[ICO]" /></th><th class="indexcolname"><a href="?C=N;O=A">Name</a></th><th class="indexcollastmod"><a href="?C=M;O=A">Last modified</a></th><th class="indexcolsize"><a href="?C=S;O=A">Size</a></th></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_005500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_005500.csv">TDCS_M05A_20240416_005500.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_005000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_005000.csv">TDCS_M05A_20240416_005000.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_004500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_004500.csv">TDCS_M05A_20240416_004500.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_004000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_004000.csv">TDCS_M05A_20240416_004000.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_003500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_003500.csv">TDCS_M05A_20240416_003500.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_003000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_003000.csv">TDCS_M05A_20240416_003000.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_002500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_002500.csv">TDCS_M05A_20240416_002500.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_002000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_002000.csv">TDCS_M05A_20240416_002000.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_001500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_001500.csv">TDCS_M05A_20240416_001500.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_001000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_001000.csv">TDCS_M05A_20240416_001000.csv</a></td><td class="indexcollastmod">2024-04-19 09:04  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="even"><td class="indexcolicon"><a href="TDCS_M05A_20240416_000500.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_000500.csv">TDCS_M05A_20240416_000500.csv</a></td><td class="indexcollastmod">2024-04-19 09:03  </td><td class="indexcolsize"> 88K</td></tr>
+   <tr class="odd"><td class="indexcolicon"><a href="TDCS_M05A_20240416_000000.csv"><img src="/theme/icons/text.png" alt="[TXT]" /></a></td><td class="indexcolname"><a href="TDCS_M05A_20240416_000000.csv">TDCS_M05A_20240416_000000.csv</a></td><td class="indexcollastmod">2024-04-19 09:03  </td><td class="indexcolsize"> 88K</td></tr>
+</table>
+        </section>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="wrapper">
+            <div class="logo-footer">
+                <img src="/theme/logo-f.png">
+            </div>
+            <div class="address">
+                總機：(02)2909-6141, 傳真：(02)2909-3218, 免付費專線：1968 (公共電話及預付卡除外)<br>
+                地址：243083新北市泰山區黎明里半山雅70號, 上班時間：上午08:30至下午05:30
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+// grab the 2nd child and add the parent class. tr:nth-child(2)
+document.getElementById('indexlist').className = 'table style-1';
+// document.getElementById('indexlist').getElementsByElement('tr')[0].className = 'indexhead';
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NN7CTJYED0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NN7CTJYED0');
+</script>
+</body></html>
