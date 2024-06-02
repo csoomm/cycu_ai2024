@@ -1,13 +1,13 @@
 import pandas as pd
 H=0
-for i in range(1,5,1):
+for i in range(4,5,1):
     if i == 1 or i == 3:
         H=32
     elif i == 2:
         H=30
     elif i == 4:
         H=31
-    for j in range(1,H,1):
+    for j in range(29,H,1):
         # Load the CSV file
         df = pd.read_csv("C:\\Users\\Cosmos\\Desktop\\0601\\exma2\\M05A_2024"+str(i).zfill(2)+str(j).zfill(2)+".csv")
 
@@ -39,5 +39,23 @@ for i in range(1,5,1):
 
         #放入csv檔，儲存路徑為C:\Users\Cosmos\Desktop\0601\exma2\M05A_2024xx.csv
         df.to_csv("C:\\Users\\Cosmos\\Desktop\\0601\\exma2\\2024"+str(i).zfill(2)+str(j).zfill(2)+".csv", index=False)
+
+import pandas as pd
+import glob
+
+# Get a list of all CSV files in the directory
+csv_files = glob.glob("C:\\Users\\Cosmos\\Desktop\\0601\\exma2\\2024*.csv")
+
+# Read each CSV file and store them in a list
+dfs = [pd.read_csv(f) for f in csv_files]
+
+# Concatenate all dataframes in the list
+df = pd.concat(dfs, ignore_index=True)
+
+# Sort the dataframe by 'time'
+df = df.sort_values('time')
+
+# Save the sorted dataframe to a new CSV file
+df.to_csv("C:\\Users\\Cosmos\\Desktop\\0601\\exma2\\20240101_20240430.csv", index=False)
 
 
